@@ -2,9 +2,14 @@
 
 Programação em Python:snake: para automatizar a consulta ao banco de dados do Registro Aeronáutico Brasileiro (RAB) da ANAC.
 
-Esse projeto surgiu quando tive a necessidade de consultar características de uma grande quantidade de aeronaves que movimentavam no Aeroporto Internacional de Belo Horizonte.
+O projeto surgiu com a necessidade de consultar as características de uma grande quantidade de aeronaves, a exemplo, o tipo de motor de cada aeronave que realizou pouso ou decolagem no Aeroporto Internacional de Belo Horizonte e consequentemente, o tipo de comubstível que ela utiliza.
 
-No projeto inicial utilizei os dados reais de movimentação de aeronves, que foram substituidos aqui por informações disponíveis no Wikipedia de frota de aeronaves.
+No projeto inicial utilizei os dados reais de movimentação de aeronaves, que foram substituidos por informações disponíveis no Wikipedia de frota de aeronaves, para fins de publicação.
+
+## Aplicações
+
+- Planejamento do estoque de combustíveis, querosene de aviação (QAV) e gasolina de aviação (AVGas).
+- Validação das licenças e autorizações de aeronaves.
 
 ## Iniciando
 
